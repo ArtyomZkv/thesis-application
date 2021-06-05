@@ -1,0 +1,55 @@
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\bin\Debug\it-cube application.exe.config
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\bin\Debug\it-cube application.exe
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\bin\Debug\it-cube application.pdb
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it_cube_application.Form1.resources
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it_cube_application.Properties.Resources.resources
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.GenerateResource.cache
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.CoreCompileInputs.cache
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it-cube application.exe
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it-cube application.pdb
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.StudentsWorkForm.resources
+C:\Users\dns-shop.ru\source\repos\it-cube application\it-cube application\obj\Debug\it-cube application.csprojAssemblyReference.cache
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.exe.config
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.exe
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.pdb
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csprojAssemblyReference.cache
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.AddProject.resources
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Form1.resources
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.StudentsWorkForm.resources
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Properties.Resources.resources
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.GenerateResource.cache
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.CoreCompileInputs.cache
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.exe
+C:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.pdb
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.exe.config
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.exe
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\it-cube application.pdb
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csprojAssemblyReference.cache
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.AddProject.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.StudentsWorkForm.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Properties.Resources.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.GenerateResource.cache
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.exe
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.pdb
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.exe.config
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.DirectionListWorkForm.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.EntryForm.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\MySql.Data.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\Google.Protobuf.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\Zstandard.Net.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\BouncyCastle.Crypto.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\Ubiety.Dns.Core.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\Renci.SshNet.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\System.Memory.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\System.Buffers.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\K4os.Compression.LZ4.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\K4os.Hash.xxHash.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\System.Numerics.Vectors.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\bin\Debug\MySql.Data.xml
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it-cube application.csproj.CopyComplete
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.MainForm.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.AddDirection.resources
+D:\Учеба\4 курс\IT-Куб\it-cube application\it-cube application\obj\Debug\it_cube_application.Forms.Help.resources

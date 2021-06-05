@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="_it_cubeDataSet" targetNamespace="http://tempuri.org/_it_cubeDataSet.xsd" xmlns:mstns="http://tempuri.org/_it_cubeDataSet.xsd" xmlns="http://tempuri.org/_it_cubeDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="server=127.0.0.1;user id=root;password=root;persistsecurityinfo=True;database=it-cube;allowuservariables=True" IsAppSettingsProperty="false" Modifier="Assembly" Name="127.0.0.1(it-cube)" ParameterPrefix="@" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="academicperfomanceTableAdapter" GeneratorDataComponentClassName="academicperfomanceTableAdapter" Name="academicperfomance" UserDataComponentName="academicperfomanceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="127.0.0.1(it-cube)" DbObjectName="`it-cube`.academicperfomance" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `idproject`, `date` FROM `academicperfomance`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idproject" DataSetColumn="idproject" />
+              <Mapping SourceColumn="date" DataSetColumn="date" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="_it_cubeDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="_it_cubeDataSet" msprop:Generator_UserDSName="_it_cubeDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="academicperfomance" msprop:Generator_TableClassName="academicperfomanceDataTable" msprop:Generator_TableVarName="tableacademicperfomance" msprop:Generator_TablePropName="academicperfomance" msprop:Generator_RowDeletingName="academicperfomanceRowDeleting" msprop:Generator_RowChangingName="academicperfomanceRowChanging" msprop:Generator_RowEvHandlerName="academicperfomanceRowChangeEventHandler" msprop:Generator_RowDeletedName="academicperfomanceRowDeleted" msprop:Generator_UserTableName="academicperfomance" msprop:Generator_RowChangedName="academicperfomanceRowChanged" msprop:Generator_RowEvArgName="academicperfomanceRowChangeEvent" msprop:Generator_RowClassName="academicperfomanceRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idproject" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" msprop:Generator_ColumnVarNameInTable="columnidproject" msprop:Generator_ColumnPropNameInRow="idproject" msprop:Generator_ColumnPropNameInTable="idprojectColumn" msprop:Generator_UserColumnName="idproject" type="xs:string" />
+              <xs:element name="date" msprop:Generator_ColumnVarNameInTable="columndate" msprop:Generator_ColumnPropNameInRow="date" msprop:Generator_ColumnPropNameInTable="dateColumn" msprop:Generator_UserColumnName="date" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
